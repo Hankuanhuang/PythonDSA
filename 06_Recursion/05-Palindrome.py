@@ -9,3 +9,4 @@ def Palindrome(text):
 
 
 print(Palindrome("level"))
+print(Palindrome("levwerl"))
