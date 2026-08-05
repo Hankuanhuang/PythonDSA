@@ -43,3 +43,9 @@ root.left.left = Node("D")
 root.left.right = Node("E")
 
 level_order(root)
+
+
+"--------------------------------------------"
+
+# Queue = 等待工作的 Node。
+# node = 從 Queue 拿出來，目前正在工作的 Node。
